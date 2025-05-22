@@ -3,7 +3,7 @@ import HeroImg from "../assets/RobertGarciaHero.png";
 import linkedin from "../assets/linkedinicon.svg";
 import github from "../assets/githubicon.svg";
 import doticon from "../assets/dot-icon.png";
-import arrowicon from "../assets/Arrow-icon.svg";
+import arrowicon from "../assets/Arrow-Icon.svg";
 
 const Hero = () => {
   return (
