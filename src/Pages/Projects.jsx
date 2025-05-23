@@ -20,7 +20,7 @@ const Projects = () => {
     </section>
         {/* project sections */}
         <section className="grid lg:grid-cols-2 lg:mx-20 lg:mt-15 mx-4 mt-20">
-          <div className="lg:w-[500px] lg:h-[450px] w-[350px] h-[343px] bg-[#1A1A1A] rounded-2xl flex items-center justify-center mx-auto lg:mx-0">
+          <div className="lg:w-[500px] lg:h-[450px] w-[343px] h-[343px] bg-[#1A1A1A] rounded-2xl flex items-center justify-center mx-auto lg:mx-0">
             <img src={adventureDesktop} alt="Image" className="hidden lg:block lg: lg:w-[400px] h-lg:[400px] h-[300px] w-[300px]"/>
             <img src={adventureMobile} alt="Image" className="block lg:hidden h-[300px] w-[300px] rounded-t-2xl"/>
 
@@ -59,7 +59,7 @@ const Projects = () => {
 
         {/* project sections */}
         <section className="grid lg:grid-cols-2 lg:mx-20 lg:mt-15 mx-4 mt-20">
-          <div className="lg:w-[500px] lg:h-[50px] w-[350px] h-[343px] bg-[#1A1A1A] rounded-2xl flex items-center justify-center mx-auto lg:mx-0">
+          <div className="lg:w-[500px] lg:h-[50px] w-[343px] h-[343px] bg-[#1A1A1A] rounded-2xl flex items-center justify-center mx-auto lg:mx-0">
             <img src={blogsite} alt="Image" className="lg:w-[400px] lg:h-[400px] h-[300px] w-[300px]"/>
           </div>
 
@@ -94,7 +94,7 @@ const Projects = () => {
 
         {/* project sections */}
         <section className="grid lg:grid-cols-2 lg:mx-20 lg:mt-15 mx-4 mt-20">
-          <div className="lg:w-[500px] lg:h-[450px] w-[350px] h-[343px] bg-[#1A1A1A] rounded-2xl flex items-center justify-center mx-auto lg:mx-0">
+          <div className="lg:w-[500px] lg:h-[450px] w-[343px] h-[343px] bg-[#1A1A1A] rounded-2xl flex items-center justify-center mx-auto lg:mx-0">
             <img src={ecommerce} alt="Image" className="lg:w-[400px] lg:h-[400px] h-[300px] w-[300px]"/>
           </div>
 
