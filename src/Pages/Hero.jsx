@@ -60,7 +60,7 @@ const Hero = () => {
           <img src={HeroImg} alt="" className="h mt-10 lg:mt-0" />
         </div>
       </section>
-      <hr className="mt-10 border-[#C7C7C7]" />
+       <hr className="mt-10 border-[#484848]"/>
     </>
   );
 };
